@@ -1,4 +1,4 @@
-Oi 👋 Meu nome é JOSE AUGUSTO
+HI 👋 MY NAME IS JOSE AUGUSTO
 ==================
 
 <a href="https://www.github.com/Gutobjj" target="_blank" rel="noreferrer"><img
